@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050044059013",
+    "project_id": "fir-mwf",
+    "storage_bucket": "fir-mwf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050044059013:android:418b1e8f4d44f7d996c8ec",
+        "android_client_info": {
+          "package_name": "com.example.syedaap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYWXpCyfr1CNHcPeRXimx0jgHV_BLqrGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
